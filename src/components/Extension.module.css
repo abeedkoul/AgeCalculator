@@ -1,0 +1,33 @@
+.heading {
+    background-color: black;
+    width: 800px;
+    height: 400px;
+    color: beige;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+.header {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+   
+}
+.input {
+    width: 200px;
+    height: 30px;
+    
+}
+.pdemo {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 100px;
+    text-align: center;
+}
+.ans {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
