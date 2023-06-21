@@ -37,7 +37,7 @@ function lol(e) {
       <div className={style.heading}>
         <p className={style.pdemo}>Enter Your Date Of Birth In DD/MM/YYYY Format</p>
         <input onChange={(e)=> lol(e)} type='date' className={style.input}></input>
-        <p className={style.ans}>{date}</p>
+        <p className={style.ans}>You were born {date} </p>
       
       </div>
     </div>
